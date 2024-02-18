@@ -16,4 +16,6 @@ testing set using appropriate metrics
 matplotlib or any other suitable visualization library.
 # Output
 # Accuracy
- 
+  ![image](https://github.com/Navyavenkat/ML-Task-1/assets/94165327/343950b0-e72c-4081-85ab-4d72715c6962)
+
+  ![image](https://github.com/Navyavenkat/ML-Task-1/assets/94165327/70093904-dbb6-4df9-8638-e00c0c0accc4)
